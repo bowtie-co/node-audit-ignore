@@ -1,0 +1,32 @@
+{
+  "name": "audit-ignore",
+  "version": "0.0.1",
+  "description": "NPM Audit Ignore - Keep CI Scanning!",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bowtie-co/node-audit-ignore.git"
+  },
+  "keywords": [
+    "npm",
+    "audit",
+    "ignore",
+    "cve",
+    "ci",
+    "skip",
+    "whitelist",
+    "advisory",
+    "advisories",
+    "patch",
+    "vulnerabilities"
+  ],
+  "author": "Charlie McClung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bowtie-co/node-audit-ignore/issues"
+  },
+  "homepage": "https://github.com/bowtie-co/node-audit-ignore#readme"
+}
