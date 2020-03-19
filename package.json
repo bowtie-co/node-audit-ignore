@@ -1,6 +1,6 @@
 {
   "name": "audit-ignore",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "NPM Audit Ignore - Keep CI Scanning!",
   "main": "index.js",
   "scripts": {
